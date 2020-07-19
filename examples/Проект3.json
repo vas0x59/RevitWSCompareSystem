@@ -1,0 +1,1248 @@
+{
+    "levels": [
+        {
+            "elevation": 0.0, 
+            "type_json": "level", 
+            "name": "L1", 
+            "id": "311"
+        }, 
+        {
+            "elevation": 10.334645669291339, 
+            "type_json": "level", 
+            "name": "L2", 
+            "id": "694"
+        }, 
+        {
+            "elevation": 20.669291338582823, 
+            "type_json": "level", 
+            "name": "L3", 
+            "id": "305162"
+        }, 
+        {
+            "elevation": -9.8425196850393704, 
+            "type_json": "level", 
+            "name": "B1", 
+            "id": "305449"
+        }
+    ], 
+    "doors": [
+        {
+            "family_id": "179021", 
+            "name": "AS_door_800x2000", 
+            "id": "362879", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 31.020341207349038, 
+                "x": 13.098753280839972
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "AS_door_800x2000", 
+            "id": "384634", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 21.292650918635324, 
+                "x": 20.611876640420707
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "AS_door_800x2000", 
+            "id": "384965", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 19.488188976378101, 
+                "x": 22.604986876641195
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "AS_door_800x2000", 
+            "id": "385285", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 14.501312335958158, 
+                "x": 20.65288713910839
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "AS_door_800x2000", 
+            "id": "388894", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 6.971784776902906, 
+                "x": 21.489501312336685
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }
+    ], 
+    "windows": [
+        {
+            "family_id": "179021", 
+            "name": "EUROLINE 58", 
+            "id": "330859", 
+            "level_id": "311", 
+            "location": {
+                "z": 2.6246719160105116, 
+                "y": 31.020341207349055, 
+                "x": 7.9068241469816867
+            }, 
+            "type_id": "362000", 
+            "type_json": "window", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "SOFTLINE 70", 
+            "id": "356117", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.98425196850393704, 
+                "y": -0.24606299212596672, 
+                "x": 6.0531496062992058
+            }, 
+            "type_id": "354939", 
+            "type_json": "window", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "EUROLINE 58", 
+            "id": "369873", 
+            "level_id": "311", 
+            "location": {
+                "z": 2.6246719160104988, 
+                "y": 31.020341207349013, 
+                "x": 20.620078740158291
+            }, 
+            "type_id": "369445", 
+            "type_json": "window", 
+            "family_name": "Одиночные-Щитовые"
+        }
+    ], 
+    "families": [
+        {
+            "name": "Универсальная балка BS", 
+            "id": "3378", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Прямоугольный импост", 
+            "id": "8482", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Импост круглого сечения", 
+            "id": "8483", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Системная панель", 
+            "id": "12609", 
+            "category_name": "Curtain Panels", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Пустая системная панель", 
+            "id": "12613", 
+            "category_name": "Curtain Panels", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Угловой L-импост", 
+            "id": "18428", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Угловой V-импост", 
+            "id": "18432", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Трапецеидальный угловой импост", 
+            "id": "18436", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "name": "Квадратный угловой импост", 
+            "id": "18440", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Кирпич - Брит. стандарт", 
+            "id": "78197", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок уровня - Без марок оси", 
+            "id": "81254", 
+            "category_name": "Level Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка ключевой пометки", 
+            "id": "86342", 
+            "category_name": "Keynote Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка материала", 
+            "id": "86551", 
+            "category_name": "Material Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка зоны", 
+            "id": "87285", 
+            "category_name": "Area Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента", 
+            "id": "87489", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Осевая линия", 
+            "id": "87690", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка двери", 
+            "id": "87880", 
+            "category_name": "Door Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Окружность", 
+            "id": "88069", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Без марок оси", 
+            "id": "88264", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок уровня - Окружность", 
+            "id": "88459", 
+            "category_name": "Level Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Стрелка на север-2", 
+            "id": "88868", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка помещения", 
+            "id": "89062", 
+            "category_name": "Room Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - С заливкой", 
+            "id": "89267", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Без стрелок", 
+            "id": "89493", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Контурная", 
+            "id": "89695", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - С заливкой", 
+            "id": "89897", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - С заливкой, по горизонтали", 
+            "id": "90110", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Наружная, с заливкой", 
+            "id": "90323", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Закрашенное значение", 
+            "id": "90520", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Название вида", 
+            "id": "90722", 
+            "category_name": "View Titles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка стены", 
+            "id": "90915", 
+            "category_name": "Wall Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка окна", 
+            "id": "91112", 
+            "category_name": "Window Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Место для парковки", 
+            "id": "92952", 
+            "category_name": "Parking", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Круглый поручень", 
+            "id": "94215", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Прямоугольный поручень", 
+            "id": "94434", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Свес на лестнице - Радиус", 
+            "id": "94652", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Бордюрная рейка-Плоская", 
+            "id": "94874", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Желоб - Скос", 
+            "id": "95100", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Выемка-Ряд кирпичной кладки", 
+            "id": "95353", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Кромка плиты-Утолщенная", 
+            "id": "95577", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Ссылка на вид", 
+            "id": "99945", 
+            "category_name": "View Reference", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Перекрестье", 
+            "id": "100195", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка изменения", 
+            "id": "102134", 
+            "category_name": "Revision Cloud Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Колонна прямоугольного сечения", 
+            "id": "105786", 
+            "category_name": "Columns", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Стол", 
+            "id": "106786", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Круглая", 
+            "id": "108406", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Квадратная", 
+            "id": "108883", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Рамка", 
+            "id": "112353", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка изменения - Параллелограмм", 
+            "id": "113927", 
+            "category_name": "Revision Cloud Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Окружность 5 мм", 
+            "id": "117201", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Выноска элемента", 
+            "id": "120794", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Фрагмент", 
+            "id": "121324", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Стрелка", 
+            "id": "124311", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента - Выносной элемент в виде круга 6 мм", 
+            "id": "124531", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента - Выносной элемент в виде круга 6 мм с листом", 
+            "id": "124747", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Выносной элемент с листом", 
+            "id": "132055", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Выносной элемент", 
+            "id": "132272", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Вид с листом", 
+            "id": "132489", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Вид", 
+            "id": "132706", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Выносной элемент", 
+            "id": "132923", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Вид с листом", 
+            "id": "133140", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Вид", 
+            "id": "133357", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Настил формы_Несоставной", 
+            "id": "133582", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Марка балочной системы", 
+            "id": "134116", 
+            "category_name": "Structural Beam System Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Направление пролета", 
+            "id": "134348", 
+            "category_name": "Span Direction Symbol", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка несущего каркаса", 
+            "id": "134665", 
+            "category_name": "Structural Framing Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "УК-Универсальная колонна-Колонна", 
+            "id": "134877", 
+            "category_name": "Structural Columns", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_квадрат", 
+            "id": "146729", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_квадрат", 
+            "id": "146975", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_окружность-10мм", 
+            "id": "147241", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_окружность-10мм", 
+            "id": "147460", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка для нескольких материалов", 
+            "id": "151361", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Линия разрыва", 
+            "id": "155019", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_окружность-12мм", 
+            "id": "157879", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_окружность-12мм", 
+            "id": "158099", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "RPC Дерево - лиственное", 
+            "id": "160908", 
+            "category_name": "Planting", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Одиночные-Щитовые", 
+            "id": "179021", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Фиксированные", 
+            "id": "179593", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Квадратный поручень", 
+            "id": "180216", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Стальная плоская вертикальная", 
+            "id": "180429", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Панель - С остеклением", 
+            "id": "181126", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Коническое врезание", 
+            "id": "183595", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Шаг под углом", 
+            "id": "183955", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Врезка", 
+            "id": "184305", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Ограничитель - Деревянный - Квадратный", 
+            "id": "184767", 
+            "category_name": "Terminations", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Эллиптический поручень", 
+            "id": "185622", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Опора - Металлическая - Круглого сечения", 
+            "id": "185807", 
+            "category_name": "Supports", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Проступь лестницы", 
+            "id": "190532", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничной площадки", 
+            "id": "190894", 
+            "category_name": "Stair Landing Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничного марша", 
+            "id": "191141", 
+            "category_name": "Stair Run Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничной опоры", 
+            "id": "191365", 
+            "category_name": "Stair Support Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестницы", 
+            "id": "191612", 
+            "category_name": "Stair Tags", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "C-образный канал-Профиль", 
+            "id": "191836", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Двутавр широкополочный (ГОСТ 26020-83)", 
+            "id": "216596", 
+            "category_name": "Structural Framing", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "A1 метрический", 
+            "id": "281895", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "A2 метрический", 
+            "id": "282305", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Первый лист - Текст", 
+            "id": "282723", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Первый лист", 
+            "id": "283318", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Следующий лист - Текст", 
+            "id": "294737", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Окна\\Окно-распашное-тройное-тент-тройной.rfa", 
+            "name": "Окно-распашное-тройное-тент-тройной", 
+            "id": "311802", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Сетка горбылька_2x2", 
+            "id": "318383", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Подрезное-окно-наружное-плоское", 
+            "id": "318397", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Подрезное-окно-внутреннее-плоское", 
+            "id": "318412", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Окна\\Окно-распашное-отдельное_левое.rfa", 
+            "name": "Окно-распашное-отдельное_левое", 
+            "id": "324669", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Окна\\Экземпляр-окно-закрепленное.rfa", 
+            "name": "Экземпляр-окно-закрепленное", 
+            "id": "332729", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Окна\\Для России\\ГОСТ 21519-2003\\Окно 1-Распашное - Один переплет с двойным стеклопакетом - 21519-2003.rfa", 
+            "name": "Окно 1-Распашное - Один переплет с двойным стеклопакетом - 21519-2003", 
+            "id": "334765", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Окна\\Окно-закрепленное.rfa", 
+            "name": "Окно-закрепленное", 
+            "id": "341366", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\Users\\dell\\Downloads\\okno-trehstvorchatoe-veka--s-razdelnymi-framugami-snizu.rfa", 
+            "name": "okno-trehstvorchatoe-veka--s-razdelnymi-framugami-snizu", 
+            "id": "349495", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Подоконник", 
+            "id": "354786", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\Users\\dell\\Downloads\\okno-odnostvorchatoe-veka.rfa", 
+            "name": "okno-odnostvorchatoe-veka", 
+            "id": "356961", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\Users\\dell\\Downloads\\okno-dvustvorchatoe-veka.rfa", 
+            "name": "okno-dvustvorchatoe-veka", 
+            "id": "364295", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Унитазы\\Туалет-Домашний-3D.rfa", 
+            "name": "Туалет-Домашний-3D", 
+            "id": "381022", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Раковины\\Раковина-Одиночная-2D.rfa", 
+            "name": "Раковина-Одиночная-2D", 
+            "id": "382214", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Раковины\\Туалетный столик с раковиной-Квадратный.rfa", 
+            "name": "Туалетный столик с раковиной-Квадратный", 
+            "id": "382754", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Ванны\\Ванна-Свободно стоящая-3D.rfa", 
+            "name": "Ванна-Свободно стоящая-3D", 
+            "id": "385485", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Душевые\\Душевая кабинка-2D.rfa", 
+            "name": "Душевая кабинка-2D", 
+            "id": "386308", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "a.korotkovaMIM"
+        }
+    ], 
+    "doc_filename": "Проект3.rvt", 
+    "grids": [
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 0.0
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": -0.0
+            }, 
+            "name": "1", 
+            "id": "303871", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 0.0, 
+                "x": 113.20545458128669
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 0.0, 
+                "x": -1.0
+            }, 
+            "name": "А", 
+            "id": "303883", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 11.482939632545932
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "2", 
+            "id": "305968", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 27.230971128608925
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "3", 
+            "id": "305995", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 38.713910761154857
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "4", 
+            "id": "306085", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 54.461942257217849
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "5", 
+            "id": "306086", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 65.944881889763778
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "6", 
+            "id": "306091", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 81.69291338582677
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "7", 
+            "id": "306092", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 93.175853018372692
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "8", 
+            "id": "306126", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": -8.7893412191360056, 
+                "x": 108.92388451443568
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 1.0, 
+                "x": 0.0
+            }, 
+            "name": "9", 
+            "id": "306127", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 7.2178477690288716, 
+                "x": 113.20545458128669
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 0.0, 
+                "x": -1.0
+            }, 
+            "name": "B", 
+            "id": "306203", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 30.774278215223099, 
+                "x": 113.20545458128669
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": 0.0, 
+                "x": -1.0
+            }, 
+            "name": "C", 
+            "id": "306232", 
+            "type_json": "grid"
+        }
+    ]
+}

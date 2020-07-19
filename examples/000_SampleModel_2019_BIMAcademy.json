@@ -1,0 +1,2094 @@
+{
+    "levels": [
+        {
+            "elevation": 0.0, 
+            "type_json": "level", 
+            "name": "L1", 
+            "id": "13071"
+        }, 
+        {
+            "elevation": 10.334645669290994, 
+            "type_json": "level", 
+            "name": "L2", 
+            "id": "15913"
+        }, 
+        {
+            "elevation": 20.669291338582333, 
+            "type_json": "level", 
+            "name": "L3", 
+            "id": "202040"
+        }, 
+        {
+            "elevation": -9.8425196850393704, 
+            "type_json": "level", 
+            "name": "B1", 
+            "id": "202113"
+        }
+    ], 
+    "doors": [
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "205984", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 20.70209973753256, 
+                "x": 20.603674540683173
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "206050", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 18.930446194225478, 
+                "x": 22.637795275591298
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "206097", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 13.910761154855384, 
+                "x": 20.603674540683151
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "215906", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.6645352591003757e-15, 
+                "y": 5.6922572178475077, 
+                "x": 21.358267716536425
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "216931", 
+            "level_id": "13071", 
+            "location": {
+                "z": 4.4408920985006262e-16, 
+                "y": 31.053149606298959, 
+                "x": 13.090551181103145
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "242492", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075878, 
+                "x": 18.667979002625426
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "242561", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075889, 
+                "x": 11.614173228347202
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "242607", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 20.702099737532567, 
+                "x": 14.698162729659545
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244051", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 20.702099737532471, 
+                "x": 47.834645669292101
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "244052", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 18.930446194225389, 
+                "x": 49.86876640420023
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244053", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 13.910761154855296, 
+                "x": 47.834645669292073
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "244222", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.6645352591003757e-15, 
+                "y": 5.6922572178474189, 
+                "x": 48.589238845145346
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244337", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 20.702099737532382, 
+                "x": 75.065616797901072
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "244338", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 18.930446194225301, 
+                "x": 77.099737532809201
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244339", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 13.910761154855207, 
+                "x": 75.065616797901043
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "244430", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.6645352591003757e-15, 
+                "y": 5.6922572178473301, 
+                "x": 75.820209973754316
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244620", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 20.702099737532293, 
+                "x": 102.29658792651001
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "244621", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 18.930446194225212, 
+                "x": 104.33070866141813
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0900 x 2100mm", 
+            "id": "244622", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 13.910761154855118, 
+                "x": 102.29658792650997
+            }, 
+            "type_id": "53070", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "244713", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.6645352591003757e-15, 
+                "y": 5.6922572178472413, 
+                "x": 103.05118110236324
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "244714", 
+            "level_id": "13071", 
+            "location": {
+                "z": 4.4408920985006262e-16, 
+                "y": 31.053149606298692, 
+                "x": 94.783464566929979
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "285108", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532556, 
+                "x": 19.127296587927265
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "285178", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532546, 
+                "x": 22.670603674541422
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "285228", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532574, 
+                "x": 13.35301837270417
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "285282", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 18.930446194225507, 
+                "x": 11.614173228347202
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "285328", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 17.257217847768789, 
+                "x": 20.439632545932525
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293926", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075789, 
+                "x": 45.898950131234358
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293927", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.0288713910758, 
+                "x": 38.845144356956133
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293928", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 20.702099737532478, 
+                "x": 41.929133858268479
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293953", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.0288713910757, 
+                "x": 73.1299212598433
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293954", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075711, 
+                "x": 66.076115485565069
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293955", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 20.702099737532389, 
+                "x": 69.160104986877414
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293980", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075612, 
+                "x": 100.36089238845223
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293981", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 19.028871391075622, 
+                "x": 93.307086614173997
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "293982", 
+            "level_id": "202113", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 20.702099737532301, 
+                "x": 96.391076115486342
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "314900", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 3.346456692913141, 
+                "x": 13.008530183727755
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "329101", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 3.3464566929130521, 
+                "x": 40.239501312336692
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "329113", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 3.3464566929129633, 
+                "x": 67.470472440945628
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "329127", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 3.3464566929128745, 
+                "x": 94.701443569554542
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330256", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532468, 
+                "x": 46.35826771653619
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330257", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532457, 
+                "x": 49.901574803150339
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330258", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532485, 
+                "x": 40.583989501313091
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330259", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 18.930446194225418, 
+                "x": 38.845144356956126
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330260", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 17.2572178477687, 
+                "x": 47.670603674541447
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330423", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532379, 
+                "x": 73.589238845145118
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330424", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532368, 
+                "x": 77.132545931759267
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330425", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532397, 
+                "x": 67.814960629922012
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330426", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 18.930446194225329, 
+                "x": 66.07611548556504
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330427", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 17.257217847768612, 
+                "x": 74.901574803150368
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330589", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.70209973753229, 
+                "x": 100.82020997375406
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330590", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532279, 
+                "x": 104.36351706036821
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330591", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 20.702099737532308, 
+                "x": 95.045931758530969
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330592", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 18.93044619422524, 
+                "x": 93.307086614173983
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "131034", 
+            "name": "0800 x 2100mm", 
+            "id": "330593", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 17.257217847768523, 
+                "x": 102.13254593175932
+            }, 
+            "type_id": "53072", 
+            "type_json": "door", 
+            "family_name": "M_Single-Flush"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "351550", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 31.05314960629887, 
+                "x": 40.321522309712073
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "0900 x 2100mm", 
+            "id": "351560", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.0, 
+                "y": 31.053149606298778, 
+                "x": 67.552493438320994
+            }, 
+            "type_id": "212703", 
+            "type_json": "door", 
+            "family_name": "Exterior Door"
+        }
+    ], 
+    "windows": [
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "219350", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275593, 
+                "y": 5.6922572178475264, 
+                "x": 15.518372703412783
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2700x2350 (3 parts)", 
+            "id": "229535", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.98425196850393704, 
+                "y": -1.5255905511813281, 
+                "x": 6.2007874015754894
+            }, 
+            "type_id": "229685", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2700x2350 (3 parts)", 
+            "id": "244225", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.98425196850393704, 
+                "y": -1.525590551181417, 
+                "x": 33.431758530184418
+            }, 
+            "type_id": "229685", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2700x2350 (3 parts)", 
+            "id": "244433", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.98425196850393704, 
+                "y": -1.5255905511815058, 
+                "x": 60.662729658793388
+            }, 
+            "type_id": "229685", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "244715", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298714, 
+                "x": 89.698162729659643
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2700x2350 (3 parts)", 
+            "id": "244716", 
+            "level_id": "13071", 
+            "location": {
+                "z": 0.98425196850393704, 
+                "y": -1.5255905511815946, 
+                "x": 87.89370078740231
+            }, 
+            "type_id": "229685", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "294302", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275779, 
+                "y": 5.6922572178475077, 
+                "x": 21.358267716536407
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309491", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275593, 
+                "y": 5.6922572178474375, 
+                "x": 42.749343832021715
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309492", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275779, 
+                "y": 5.6922572178474189, 
+                "x": 48.589238845145331
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309500", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275593, 
+                "y": 5.6922572178473487, 
+                "x": 69.980314960630665
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309501", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275779, 
+                "y": 5.6922572178473301, 
+                "x": 75.820209973754274
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309509", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275593, 
+                "y": 5.6922572178472599, 
+                "x": 97.211286089239593
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "550x900 (1 part)", 
+            "id": "309510", 
+            "level_id": "13071", 
+            "location": {
+                "z": 6.8897637795275779, 
+                "y": 5.6922572178472413, 
+                "x": 103.0511811023632
+            }, 
+            "type_id": "294192", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "313781", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298973, 
+                "x": 8.0052493438328227
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "313843", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298934, 
+                "x": 20.702099737533601
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "314056", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298671, 
+                "x": 102.39501312336039
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "314240", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298987, 
+                "x": 3.7401574803157631
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "314278", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298973, 
+                "x": 8.0052493438328227
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "314279", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298941, 
+                "x": 18.011811023622847
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "314334", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301534, 
+                "y": -1.5255905511813339, 
+                "x": 8.0052493438328405
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "314641", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": -1.5255905511813181, 
+                "x": 3.0839895013134093
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2600x1600 (balcony)", 
+            "id": "319528", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 5.6922572178475042, 
+                "x": 22.506561679790778
+            }, 
+            "type_id": "321658", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "329023", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301534, 
+                "y": -1.5255905511815187, 
+                "x": 35.236220472441758
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "329024", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": -1.5255905511815029, 
+                "x": 30.314960629922329
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2600x1600 (balcony)", 
+            "id": "329025", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 5.6922572178473194, 
+                "x": 49.737532808399699
+            }, 
+            "type_id": "321658", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "329034", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301534, 
+                "y": -1.5255905511816075, 
+                "x": 62.467191601050686
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "329035", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": -1.5255905511815917, 
+                "x": 57.545931758531253
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2600x1600 (balcony)", 
+            "id": "329036", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 5.6922572178472306, 
+                "x": 76.96850393700862
+            }, 
+            "type_id": "321658", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "329045", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301534, 
+                "y": -1.5255905511816963, 
+                "x": 89.698162729659629
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "329046", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": -1.5255905511816805, 
+                "x": 84.776902887140196
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "2600x1600 (balcony)", 
+            "id": "329047", 
+            "level_id": "15913", 
+            "location": {
+                "z": 10.334645669291046, 
+                "y": 5.6922572178471418, 
+                "x": 104.19947506561756
+            }, 
+            "type_id": "321658", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341945", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298902, 
+                "x": 30.97112860892469
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341946", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298888, 
+                "x": 35.236220472441751
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "341947", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298856, 
+                "x": 45.242782152231776
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341955", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298813, 
+                "x": 58.202099737533615
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341956", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298799, 
+                "x": 62.467191601050672
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "341957", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298767, 
+                "x": 72.473753280840697
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341965", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298728, 
+                "x": 85.433070866142558
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "341966", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298714, 
+                "x": 89.698162729659614
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "341967", 
+            "level_id": "15913", 
+            "location": {
+                "z": 12.959317585301541, 
+                "y": 31.053149606298682, 
+                "x": 99.704724409449639
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "351551", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298884, 
+                "x": 35.236220472441751
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "351552", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298842, 
+                "x": 47.933070866142529
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x800 (1 part)", 
+            "id": "351561", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298796, 
+                "x": 62.467191601050679
+            }, 
+            "type_id": "219315", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }, 
+        {
+            "family_id": "312256", 
+            "name": "1800x1600 (2 parts)", 
+            "id": "351562", 
+            "level_id": "13071", 
+            "location": {
+                "z": 2.7887139107611549, 
+                "y": 31.053149606298756, 
+                "x": 75.164041994751457
+            }, 
+            "type_id": "313874", 
+            "type_json": "window", 
+            "family_name": "Exterior Door"
+        }
+    ], 
+    "families": [
+        {
+            "name": "System Panel", 
+            "id": "22642", 
+            "category_name": "Curtain Panels", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "Rectangular Mullion", 
+            "id": "29417", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "Circular Mullion", 
+            "id": "29418", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "L Corner Mullion", 
+            "id": "40066", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "V Corner Mullion", 
+            "id": "40070", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "Trapezoid Corner Mullion", 
+            "id": "40074", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "Quad Corner Mullion", 
+            "id": "40078", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Brick - UK Standard", 
+            "id": "101383", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Callout Head", 
+            "id": "110524", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Grid Head - Circle", 
+            "id": "111105", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Section Head - Filled", 
+            "id": "112303", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Section Head - No Arrow", 
+            "id": "112529", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Section Tail - Filled", 
+            "id": "112933", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Section Tail - Filled Horizontal", 
+            "id": "113146", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Spot Elevation - Target Filled", 
+            "id": "113556", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_View Title", 
+            "id": "113758", 
+            "category_name": "View Titles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Circular Handrail", 
+            "id": "117251", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Fascia-Flat", 
+            "id": "117910", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Gutter - Bevel", 
+            "id": "118136", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Slab Edge-Thickened", 
+            "id": "119071", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_View Reference", 
+            "id": "124717", 
+            "category_name": "View Reference", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Single-Flush", 
+            "id": "131034", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Baluster - Round", 
+            "id": "133678", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Elevation Mark Pointer_Square", 
+            "id": "144351", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Elevation Mark Body_Square", 
+            "id": "149553", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Level Head - Circle", 
+            "id": "151408", 
+            "category_name": "Level Heads", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Square Handrail", 
+            "id": "155051", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Baluster - Steel Flat Upright", 
+            "id": "155264", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Panel - Glazed", 
+            "id": "155961", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Elliptical Handrail", 
+            "id": "157452", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Support - Metal - Circular", 
+            "id": "157638", 
+            "category_name": "Supports", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Table-Dining Round w Chairs", 
+            "id": "245494", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Faucet-8inch_Reach-Kohler-Purist-7507", 
+            "id": "246823", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Miele Induction Cooktop KM 6350 LPT", 
+            "id": "246846", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Miele Built-under Dishwasher G 4101 U CS", 
+            "id": "246947", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Sink-Offset-Kohler-Vault-3823_4", 
+            "id": "246973", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "4500_Kitchen Island_DW", 
+            "id": "258913", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "4500_Kitchen Island", 
+            "id": "261404", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Seat - Single with Island", 
+            "id": "265785", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Cabinet 1", 
+            "id": "266714", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_TV - Flat Screen", 
+            "id": "266742", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Walvit_Hung Bowl_604118 W", 
+            "id": "268833", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Miele Washing Machine W 5820 WPS", 
+            "id": "271719", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Miele Tumble Dryer T 7944 C", 
+            "id": "271742", 
+            "category_name": "Specialty Equipment", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Shower Stall-2D", 
+            "id": "277926", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "wardrobe1", 
+            "id": "278483", 
+            "category_name": "Furniture Systems", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151", 
+            "id": "278612", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Bathtub-TOTO-Nexus-FBF794S", 
+            "id": "279601", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Exterior Door", 
+            "id": "312256", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Window", 
+            "id": "315051", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Window balcony", 
+            "id": "323645", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Desk", 
+            "id": "332734", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Bed-Box", 
+            "id": "333904", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Chair-Breuer", 
+            "id": "335531", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Entertainment center", 
+            "id": "336622", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Bed-Shaker", 
+            "id": "338166", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "wardrobe2", 
+            "id": "356318", 
+            "category_name": "Furniture Systems", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "wardrobe3", 
+            "id": "356381", 
+            "category_name": "Furniture Systems", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "name": "wardrobe4", 
+            "id": "356414", 
+            "category_name": "Furniture Systems", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Room Tag", 
+            "id": "357711", 
+            "category_name": "Room Tags", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "A1 metric", 
+            "id": "360128", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "SuminAV@bimacad.ru"
+        }
+    ], 
+    "doc_filename": "000_SampleModel_2019_BIMAcademy.rvt", 
+    "grids": [
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628659987, 
+                "x": 6.9674479124997378e-13
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6151937535025742e-15
+            }, 
+            "name": "1", 
+            "id": "202318", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -0.62335958005268111, 
+                "x": -15.098699566513652
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": -1.6151960150226044e-15, 
+                "x": 1.0
+            }, 
+            "name": "A", 
+            "id": "202353", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 6.5944881889761904, 
+                "x": -15.098699566513641
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": -1.6143552050199903e-15, 
+                "x": 1.0
+            }, 
+            "name": "B", 
+            "id": "202418", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 30.150918635170417, 
+                "x": -15.098699566513602
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": -1.6143552050199899e-15, 
+                "x": 1.0
+            }, 
+            "name": "C", 
+            "id": "202425", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660005, 
+                "x": 11.482939632546627
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6116795034973788e-15
+            }, 
+            "name": "2", 
+            "id": "202472", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660031, 
+                "x": 27.230971128609621
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6116795034973788e-15
+            }, 
+            "name": "3", 
+            "id": "202531", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660049, 
+                "x": 38.713910761155553
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5416064816061887e-15
+            }, 
+            "name": "4", 
+            "id": "202536", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660076, 
+                "x": 54.461942257218546
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5416064816061889e-15
+            }, 
+            "name": "5", 
+            "id": "202541", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660093, 
+                "x": 65.944881889764488
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6817525253885695e-15
+            }, 
+            "name": "6", 
+            "id": "202546", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660118, 
+                "x": 81.692913385827481
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6817525253885691e-15
+            }, 
+            "name": "7", 
+            "id": "202551", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660138, 
+                "x": 93.175853018373417
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6817525253885697e-15
+            }, 
+            "name": "8", 
+            "id": "202556", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.687338628660163, 
+                "x": 108.92388451443641
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6817525253885691e-15
+            }, 
+            "name": "9", 
+            "id": "202605", 
+            "type_json": "grid"
+        }
+    ]
+}

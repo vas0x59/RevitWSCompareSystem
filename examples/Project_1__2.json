@@ -1,0 +1,2093 @@
+{
+    "levels": [
+        {
+            "elevation": 0.0, 
+            "type_json": "level", 
+            "name": "L1", 
+            "id": "311"
+        }, 
+        {
+            "elevation": 10.334645669291339, 
+            "type_json": "level", 
+            "name": "L2", 
+            "id": "694"
+        }, 
+        {
+            "elevation": -9.8425196850393704, 
+            "type_json": "level", 
+            "name": "B1", 
+            "id": "304175"
+        }, 
+        {
+            "elevation": 20.669291338582678, 
+            "type_json": "level", 
+            "name": "L3", 
+            "id": "304406"
+        }, 
+        {
+            "elevation": -8.2577917319845107e-17, 
+            "type_json": "level", 
+            "name": "B2", 
+            "id": "375095"
+        }
+    ], 
+    "doors": [
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "333941", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877530121, 
+                "x": -42.097429886161684
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334082", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877530096, 
+                "x": -34.575922978665659
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334123", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 14.59678611375057, 
+                "x": -38.79198369193594
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334433", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877530037, 
+                "x": -14.866458757552769
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334485", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877530012, 
+                "x": -7.3449518500567432
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334518", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 14.596786113750504, 
+                "x": -11.561012563327036
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334676", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877529954, 
+                "x": 12.364512371056156
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334738", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877529929, 
+                "x": 19.88601927855218
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334769", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 14.59678611375042, 
+                "x": 15.66995856528189
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334811", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.60367587752987, 
+                "x": 39.595483499665093
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334855", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 12.603675877529845, 
+                "x": 47.116990407161111
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0915 x 2134 мм", 
+            "id": "334885", 
+            "level_id": "304175", 
+            "location": {
+                "z": -9.8425196850393704, 
+                "y": 14.596786113750319, 
+                "x": 42.900929693890802
+            }, 
+            "type_id": "49480", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "336025", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 7.3789383447216945, 
+                "x": -32.551644763442553
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0813 x 2134 мм", 
+            "id": "336078", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 12.770998712175755, 
+                "x": -30.852169697825765
+            }, 
+            "type_id": "49484", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "336162", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 14.59678611375057, 
+                "x": -33.089702506224725
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "Дверь дерев. 0864 x 2134 мм", 
+            "id": "336376", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 23.996392412963214, 
+                "x": -40.299529623694468
+            }, 
+            "type_id": "409767", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "Дверь дерев. 0864 x 2134 мм", 
+            "id": "336458", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 0.43996196676893506, 
+                "x": -30.757936274933392
+            }, 
+            "type_id": "409767", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "336628", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 7.3789383447216066, 
+                "x": -5.3206736348336285
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0813 x 2134 мм", 
+            "id": "336629", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 12.770998712175667, 
+                "x": -3.6211985692168396
+            }, 
+            "type_id": "49484", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "Дверь дерев. 0864 x 2134 мм", 
+            "id": "336690", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 23.996392412963104, 
+                "x": -13.06855849508554
+            }, 
+            "type_id": "409767", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "336751", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 14.596786113750486, 
+                "x": -5.8587313776158023
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "336785", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 0.43996196676884708, 
+                "x": -3.5269651463244767
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337057", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 7.3789383447215187, 
+                "x": 21.9102974937753
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0813 x 2134 мм", 
+            "id": "337058", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 12.770998712175578, 
+                "x": 23.609772559392088
+            }, 
+            "type_id": "49484", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337079", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 7.3789383447214307, 
+                "x": 49.141268622384217
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0813 x 2134 мм", 
+            "id": "337080", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 12.770998712175489, 
+                "x": 50.840743688001005
+            }, 
+            "type_id": "49484", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "Дверь дерев. 0864 x 2134 мм", 
+            "id": "337082", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 23.996392412963036, 
+                "x": 14.162412633523374
+            }, 
+            "type_id": "409767", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337143", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 14.596786113750403, 
+                "x": 21.372239750993124
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337243", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 0.43996196676875915, 
+                "x": 23.70400598228445
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "Дверь дерев. 0864 x 2134 мм", 
+            "id": "337306", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 23.996392412962951, 
+                "x": 41.393383762132302
+            }, 
+            "type_id": "409767", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337369", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 14.596786113750319, 
+                "x": 48.603210879602045
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "337405", 
+            "level_id": "311", 
+            "location": {
+                "z": 0.0, 
+                "y": 0.43996196676867028, 
+                "x": 50.934977110893392
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378202", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750593, 
+                "x": -40.243755345479251
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378340", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 12.687337294852966, 
+                "x": -42.097429886161684
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378374", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750575, 
+                "x": -34.607272405846743
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378426", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750563, 
+                "x": -30.788374768051476
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378490", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 10.610565641309625, 
+                "x": -32.55164476344256
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378554", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.87926509186352, 
+                "y": -2.010825434805839, 
+                "x": -41.55609130348455
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378653", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750509, 
+                "x": -13.012784216870342
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378709", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750492, 
+                "x": -7.3763012772378014
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378761", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750479, 
+                "x": -3.5574036394425459
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378797", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 10.610565641309716, 
+                "x": -5.3206736348336374
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378829", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 12.687337294852888, 
+                "x": -14.866458757552769
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378925", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750426, 
+                "x": 14.218186911738584
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "378973", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 12.687337294852803, 
+                "x": 12.364512371056156
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379087", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 10.610565641309801, 
+                "x": 21.910297493775271
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379293", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750408, 
+                "x": 19.854669851371131
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379392", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750378, 
+                "x": 23.673567489166413
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379428", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750325, 
+                "x": 47.085640979980042
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379494", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750294, 
+                "x": 50.904538617775316
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379528", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 10.610565641309801, 
+                "x": 49.141268622384224
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379570", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 14.596786113750342, 
+                "x": 41.449158040347513
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "379610", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 12.687337294852721, 
+                "x": 39.595483499665093
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "417455", 
+            "name": "Дверь балконная со стеклом", 
+            "id": "419006", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 0.4399619667687566, 
+                "x": 24.503619982604736
+            }, 
+            "type_id": "419282", 
+            "type_json": "door", 
+            "family_name": "Наружная дверь 1-Навесная - С порогом - 30970-2002"
+        }, 
+        {
+            "family_id": "417455", 
+            "name": "Дверь балконная со стеклом", 
+            "id": "420144", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 0.43996196676866767, 
+                "x": 51.73459111121366
+            }, 
+            "type_id": "419282", 
+            "type_json": "door", 
+            "family_name": "Наружная дверь 1-Навесная - С порогом - 30970-2002"
+        }, 
+        {
+            "family_id": "417455", 
+            "name": "Дверь балконная со стеклом", 
+            "id": "420382", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 0.43996196676884453, 
+                "x": -2.7273511460042092
+            }, 
+            "type_id": "419282", 
+            "type_json": "door", 
+            "family_name": "Наружная дверь 1-Навесная - С порогом - 30970-2002"
+        }, 
+        {
+            "family_id": "417455", 
+            "name": "Дверь балконная со стеклом", 
+            "id": "420475", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.334645669291339, 
+                "y": 0.43996196676893251, 
+                "x": -29.958322274613135
+            }, 
+            "type_id": "419282", 
+            "type_json": "door", 
+            "family_name": "Наружная дверь 1-Навесная - С порогом - 30970-2002"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "424226", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.87926509186352, 
+                "y": -2.0108254348059269, 
+                "x": -14.325120174875627
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "424306", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.87926509186352, 
+                "y": -2.0108254348060148, 
+                "x": 12.905850953733319
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }, 
+        {
+            "family_id": "179021", 
+            "name": "0864 x 2134 мм", 
+            "id": "424375", 
+            "level_id": "694", 
+            "location": {
+                "z": 10.87926509186352, 
+                "y": -2.0108254348061028, 
+                "x": 40.136822082342213
+            }, 
+            "type_id": "49482", 
+            "type_json": "door", 
+            "family_name": "Одиночные-Щитовые"
+        }
+    ], 
+    "windows": [], 
+    "families": [
+        {
+            "name": "Универсальная балка BS", 
+            "id": "3378", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Прямоугольный импост", 
+            "id": "8482", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Импост круглого сечения", 
+            "id": "8483", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Системная панель", 
+            "id": "12609", 
+            "category_name": "Curtain Panels", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Пустая системная панель", 
+            "id": "12613", 
+            "category_name": "Curtain Panels", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Угловой L-импост", 
+            "id": "18428", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Угловой V-импост", 
+            "id": "18432", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Трапецеидальный угловой импост", 
+            "id": "18436", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "name": "Квадратный угловой импост", 
+            "id": "18440", 
+            "category_name": "Curtain Wall Mullions", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Кирпич - Брит. стандарт", 
+            "id": "78197", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок уровня - Без марок оси", 
+            "id": "81254", 
+            "category_name": "Level Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка ключевой пометки", 
+            "id": "86342", 
+            "category_name": "Keynote Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка материала", 
+            "id": "86551", 
+            "category_name": "Material Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка зоны", 
+            "id": "87285", 
+            "category_name": "Area Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента", 
+            "id": "87489", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Осевая линия", 
+            "id": "87690", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка двери", 
+            "id": "87880", 
+            "category_name": "Door Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Окружность", 
+            "id": "88069", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Без марок оси", 
+            "id": "88264", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок уровня - Окружность", 
+            "id": "88459", 
+            "category_name": "Level Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Стрелка на север-2", 
+            "id": "88868", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка помещения", 
+            "id": "89062", 
+            "category_name": "Room Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - С заливкой", 
+            "id": "89267", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Без стрелок", 
+            "id": "89493", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Контурная", 
+            "id": "89695", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - С заливкой", 
+            "id": "89897", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - С заливкой, по горизонтали", 
+            "id": "90110", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Наружная, с заливкой", 
+            "id": "90323", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Закрашенное значение", 
+            "id": "90520", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Название вида", 
+            "id": "90722", 
+            "category_name": "View Titles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка стены", 
+            "id": "90915", 
+            "category_name": "Wall Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка окна", 
+            "id": "91112", 
+            "category_name": "Window Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Место для парковки", 
+            "id": "92952", 
+            "category_name": "Parking", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Круглый поручень", 
+            "id": "94215", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Прямоугольный поручень", 
+            "id": "94434", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Свес на лестнице - Радиус", 
+            "id": "94652", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Бордюрная рейка-Плоская", 
+            "id": "94874", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Желоб - Скос", 
+            "id": "95100", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Выемка-Ряд кирпичной кладки", 
+            "id": "95353", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Кромка плиты-Утолщенная", 
+            "id": "95577", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Ссылка на вид", 
+            "id": "99945", 
+            "category_name": "View Reference", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Перекрестье", 
+            "id": "100195", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка изменения", 
+            "id": "102134", 
+            "category_name": "Revision Cloud Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Колонна прямоугольного сечения", 
+            "id": "105786", 
+            "category_name": "Columns", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Круглая", 
+            "id": "108406", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Квадратная", 
+            "id": "108883", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Рамка", 
+            "id": "112353", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка изменения - Параллелограмм", 
+            "id": "113927", 
+            "category_name": "Revision Cloud Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок сетки - Окружность 5 мм", 
+            "id": "117201", 
+            "category_name": "Grid Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Выноска элемента", 
+            "id": "120794", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Фрагмент", 
+            "id": "121324", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Высотная отметка - Стрелка", 
+            "id": "124311", 
+            "category_name": "Spot Elevation Symbols", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента - Выносной элемент в виде круга 6 мм", 
+            "id": "124531", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок фрагмента - Выносной элемент в виде круга 6 мм с листом", 
+            "id": "124747", 
+            "category_name": "Callout Heads", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Выносной элемент с листом", 
+            "id": "132055", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Выносной элемент", 
+            "id": "132272", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Вид с листом", 
+            "id": "132489", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Заголовок разреза - Вид", 
+            "id": "132706", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Выносной элемент", 
+            "id": "132923", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Вид с листом", 
+            "id": "133140", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Задняя часть разреза - Вид", 
+            "id": "133357", 
+            "category_name": "Section Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Настил формы_Несоставной", 
+            "id": "133582", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Марка балочной системы", 
+            "id": "134116", 
+            "category_name": "Structural Beam System Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Направление пролета", 
+            "id": "134348", 
+            "category_name": "Span Direction Symbol", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка несущего каркаса", 
+            "id": "134665", 
+            "category_name": "Structural Framing Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "УК-Универсальная колонна-Колонна", 
+            "id": "134877", 
+            "category_name": "Structural Columns", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_квадрат", 
+            "id": "146729", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_квадрат", 
+            "id": "146975", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_окружность-10мм", 
+            "id": "147241", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_окружность-10мм", 
+            "id": "147460", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка для нескольких материалов", 
+            "id": "151361", 
+            "category_name": "Generic Annotations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Линия разрыва", 
+            "id": "155019", 
+            "category_name": "Detail Items", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, основная часть_окружность-12мм", 
+            "id": "157879", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка фасада, указатель_окружность-12мм", 
+            "id": "158099", 
+            "category_name": "Elevation Marks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "RPC Дерево - лиственное", 
+            "id": "160908", 
+            "category_name": "Planting", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Одиночные-Щитовые", 
+            "id": "179021", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Фиксированные", 
+            "id": "179593", 
+            "category_name": "Windows", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Квадратный поручень", 
+            "id": "180216", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Балясина - Стальная плоская вертикальная", 
+            "id": "180429", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Панель - С остеклением", 
+            "id": "181126", 
+            "category_name": "Balusters", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Коническое врезание", 
+            "id": "183595", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Шаг под углом", 
+            "id": "183955", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Врезка", 
+            "id": "184305", 
+            "category_name": "Division Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Ограничитель - Деревянный - Квадратный", 
+            "id": "184767", 
+            "category_name": "Terminations", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Эллиптический поручень", 
+            "id": "185622", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Опора - Металлическая - Круглого сечения", 
+            "id": "185807", 
+            "category_name": "Supports", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Проступь лестницы", 
+            "id": "190532", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничной площадки", 
+            "id": "190894", 
+            "category_name": "Stair Landing Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничного марша", 
+            "id": "191141", 
+            "category_name": "Stair Run Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестничной опоры", 
+            "id": "191365", 
+            "category_name": "Stair Support Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Марка лестницы", 
+            "id": "191612", 
+            "category_name": "Stair Tags", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "C-образный канал-Профиль", 
+            "id": "191836", 
+            "category_name": "Profiles", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Двутавр широкополочный (ГОСТ 26020-83)", 
+            "id": "216596", 
+            "category_name": "Structural Framing", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "A1 метрический", 
+            "id": "281895", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "A2 метрический", 
+            "id": "282305", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Первый лист - Текст", 
+            "id": "282723", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Первый лист", 
+            "id": "283318", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Следующий лист - Текст", 
+            "id": "294737", 
+            "category_name": "Title Blocks", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Столы\\Стол-Обеденный круглый со стульями.rfa", 
+            "name": "Стол-Обеденный круглый со стульями", 
+            "id": "337595", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "M_Стул-Breuer", 
+            "id": "338634", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\ТВ - Стандартный.rfa", 
+            "name": "ТВ - Стандартный", 
+            "id": "339102", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\ТВ - Плоский экран.rfa", 
+            "name": "ТВ - Плоский экран", 
+            "id": "340090", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Sofa - Single with Island", 
+            "id": "341056", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "013_Camber_Sectional_Sofa", 
+            "id": "342297", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Столы\\Стол-Кофейный.rfa", 
+            "name": "Стол-Кофейный", 
+            "id": "343588", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Chest of Drawers - 2 Doors", 
+            "id": "344203", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Credenza", 
+            "id": "346805", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Base - Single Door", 
+            "id": "349277", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Sink Kitchen - Small 2 Basins (2)", 
+            "id": "351201", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Base - Double Door", 
+            "id": "352964", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "CHAMBERS_STOVE_", 
+            "id": "354650", 
+            "category_name": "Generic Models", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Cook Top-4 Unit", 
+            "id": "359545", 
+            "category_name": "Specialty Equipment", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Sink Kitchen-Double", 
+            "id": "359568", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "Microwave", 
+            "id": "359588", 
+            "category_name": "Specialty Equipment", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "complete_kitcheвn3", 
+            "id": "360155", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "", 
+            "name": "complete_kitchen3", 
+            "id": "364324", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Ванны\\Ванна-Свободно стоящая-3D.rfa", 
+            "name": "Ванна-Свободно стоящая-3D", 
+            "id": "368370", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Душевые\\Душевая кабинка-2D.rfa", 
+            "name": "Душевая кабинка-2D", 
+            "id": "369143", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Унитазы\\Туалет-Домашний-3D.rfa", 
+            "name": "Туалет-Домашний-3D", 
+            "id": "369705", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Сантехника\\Архитектурные\\Приборы\\Раковины\\Туалетный столик с раковиной-Квадратный.rfa", 
+            "name": "Туалетный столик с раковиной-Квадратный", 
+            "id": "370628", 
+            "category_name": "Plumbing Fixtures", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Шкафы\\Базовые шкафы\\Базовый шкаф-4 ящика.rfa", 
+            "name": "Базовый шкаф-4 ящика", 
+            "id": "371477", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Шкафы\\Базовые шкафы\\Шкафчик туалетного столика-Две двери и 4 ящика.rfa", 
+            "name": "Шкафчик туалетного столика-Две двери и 4 ящика", 
+            "id": "372360", 
+            "category_name": "Casework", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Складское помещение\\Комод.rfa", 
+            "name": "Комод", 
+            "id": "373152", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Складское помещение\\Комаод.rfa", 
+            "name": "Комаод", 
+            "id": "373940", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Кровати\\Кровать-Стандарт.rfa", 
+            "name": "Кровать-Стандарт", 
+            "id": "379790", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Столы\\Стол.rfa", 
+            "name": "Стол", 
+            "id": "380540", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Сиденье\\Стул-Кресло рабочее (с подлокотниками).rfa", 
+            "name": "Стул-Кресло рабочее (с подлокотниками)", 
+            "id": "381372", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Мебель\\Сиденье\\Стул-Breuer.rfa", 
+            "name": "Стул-Breuer", 
+            "id": "382129", 
+            "category_name": "Furniture", 
+            "type_json": "family", 
+            "fam_creator": "guscha.mary"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Двери\\Для России\\ГОСТ 30970-2002\\Наружная дверь 1-Навесная - С панелью и порогом - 30970-2002.rfa", 
+            "name": "Наружная дверь 1-Навесная - С панелью и порогом - 30970-2002", 
+            "id": "415252", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }, 
+        {
+            "fam_path": "C:\\ProgramData\\Autodesk\\RVT 2020\\Libraries\\Russia\\Двери\\Для России\\ГОСТ 30970-2002\\Наружная дверь 1-Навесная - С порогом - 30970-2002.rfa", 
+            "name": "Наружная дверь 1-Навесная - С порогом - 30970-2002", 
+            "id": "417455", 
+            "category_name": "Doors", 
+            "type_json": "family", 
+            "fam_creator": "Mouensy"
+        }
+    ], 
+    "doc_filename": "Project_1__2.rvt", 
+    "grids": [
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032602, 
+                "x": -53.74441151345831
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5358019038667132e-15
+            }, 
+            "name": "1", 
+            "id": "304601", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.73262217103262, 
+                "x": -42.261471880912381
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5358019038667132e-15
+            }, 
+            "name": "2", 
+            "id": "304669", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032645, 
+                "x": -26.513440384849392
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6211242318593081e-15
+            }, 
+            "name": "3", 
+            "id": "304723", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032656, 
+                "x": -15.030500752303464
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6211242318593083e-15
+            }, 
+            "name": "4", 
+            "id": "304796", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032681, 
+                "x": 0.71753074375952863
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6211242318593083e-15
+            }, 
+            "name": "5", 
+            "id": "304873", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032702, 
+                "x": 12.200470376305461
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.6211242318593083e-15
+            }, 
+            "name": "6", 
+            "id": "304931", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032734, 
+                "x": 27.94850187236846
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5358019038667126e-15
+            }, 
+            "name": "7", 
+            "id": "305002", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032741, 
+                "x": 39.431441504914396
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.5358019038667132e-15
+            }, 
+            "name": "8", 
+            "id": "305064", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -13.732622171032773, 
+                "x": 55.179473000977382
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": 1.0, 
+                "x": 1.706446559851903e-15
+            }, 
+            "name": "9", 
+            "id": "305136", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": 0.0, 
+                "y": -6.7778858022591457, 
+                "x": -62.603353358399261
+            }, 
+            "direction": {
+                "z": 0.0, 
+                "y": -3.2281137407077901e-15, 
+                "x": 1.0
+            }, 
+            "name": "A", 
+            "id": "305409", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 0.43996196676972815, 
+                "x": -62.603353358399218
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": -3.2302285950976676e-15, 
+                "x": 1.0
+            }, 
+            "name": "B", 
+            "id": "305502", 
+            "type_json": "grid"
+        }, 
+        {
+            "origin": {
+                "z": -0.0, 
+                "y": 23.996392412963949, 
+                "x": -62.603353358399218
+            }, 
+            "direction": {
+                "z": -0.0, 
+                "y": -3.2213462066601835e-15, 
+                "x": 1.0
+            }, 
+            "name": "C", 
+            "id": "305627", 
+            "type_json": "grid"
+        }
+    ]
+}
