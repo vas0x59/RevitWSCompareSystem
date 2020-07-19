@@ -12,7 +12,7 @@ all_fams = DB.FilteredElementCollector(doc)\
              .ToElements()
 families_to_json = []
 for fam in all_fams:
-    obj_dict = {}
+    obj_dict = {"type_json":"family"}
     if fam.IsEditable:
         fam_doc = doc.EditFamily(fam)
         obj_dict["fam_path"] = fam_doc.PathName.ToString()
@@ -33,13 +33,13 @@ grids = Fec(doc).OfCategory(Bic.OST_Grids).WhereElementIsNotElementType().ToElem
 levels_to_json = []
 
 for level in levels:
-    level_dict = {"id":level.Id.ToString(), "name":level.Name.ToString(), "elevation":level.Elevation}
+    level_dict = {"id":level.Id.ToString(), "name":level.Name.ToString(), "elevation":level.Elevation, "type_json":"level"}
     levels_to_json.append(level_dict)
 
 grids_to_json = []
 
 for grid in grids:
-    obj_dict = {}
+    obj_dict = {"type_json":"grid"}
     obj_dict["name"] = grid.Name
     obj_dict["id"] = grid.Id.ToString()
     obj_dict["origin"] = {"x":grid.Curve.Origin[0], "y":grid.Curve.Origin[1], "z":grid.Curve.Origin[2]}
@@ -49,7 +49,7 @@ for grid in grids:
 doors_to_json = []
 
 for door in doors:
-    obj_dict = {}
+    obj_dict = {"type_json":"door"}
     x = door.Location.Point[0]
     y = door.Location.Point[1]
     z = door.Location.Point[2]
@@ -66,7 +66,7 @@ for door in doors:
 windows_to_json = []
 
 for window in windows:
-    obj_dict = {}
+    obj_dict = {"type_json":"window"}
     x = window.Location.Point[0]
     y = window.Location.Point[1]
     z = window.Location.Point[2]
