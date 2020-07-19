@@ -5,6 +5,7 @@ from Autodesk.Revit import DB
 from Autodesk.Revit.DB import BuiltInCategory as Bic
 from Autodesk.Revit.DB import FilteredElementCollector as Fec
 from Autodesk.Revit.DB import Transaction
+import codecs
 
 all_fams = DB.FilteredElementCollector(doc)\
              .OfClass(DB.Family)\
@@ -42,7 +43,7 @@ for grid in grids:
     obj_dict["name"] = grid.Name
     obj_dict["id"] = grid.Id.ToString()
     obj_dict["origin"] = {"x":grid.Curve.Origin[0], "y":grid.Curve.Origin[1], "z":grid.Curve.Origin[2]}
-    obj_dict["direction"] = {"x":grid.Curve.Direction[0], "y":grid.Curve.Direction[1], "z":grid.Curve.Direction[2]}
+    obj_dict["direction"] = {"x":grid.Curve.Direction[0], "y":grid.Curve.Direction[1], "z":grid.Curve.Origin[2]}
     grids_to_json.append(obj_dict)
 
 doors_to_json = []
@@ -59,6 +60,7 @@ for door in doors:
     obj_dict["type_id"] = door.GetTypeId().ToString()
     obj_dict["family_id"] = door.Symbol.Family.Id.ToString()
     obj_dict["family_name"] = door.Symbol.FamilyName.ToString()
+    # print("SDASD", obj_dict["family_name"])
     doors_to_json.append(obj_dict)
 
 windows_to_json = []
@@ -75,16 +77,17 @@ for window in windows:
     obj_dict["type_id"] = window.GetTypeId().ToString()
     obj_dict["family_id"] = door.Symbol.Family.Id.ToString()
     obj_dict["family_name"] = door.Symbol.FamilyName.ToString()
+    # print("SDASD", obj_dict["family_name"])
     windows_to_json.append(obj_dict)
 
 splited_path = str(doc.PathName).split('\\')
 
-doc_to_json = {"families":families_to_json, "grids":grids_to_json, "doc_filename":splited_path[-1], "levels":levels_to_json, "doors":doors_to_json, "windows":windows_to_json}
+doc_to_json = {"doc_filename":splited_path[-1], "families":families_to_json, "grids":grids_to_json, "levels":levels_to_json, "doors":doors_to_json, "windows":windows_to_json}
 json_path = "/".join(splited_path[:-1]) + "/" + splited_path[-1].split(".")[0] + ".json"
 # print(json_path)
 # print(json.dumps(doc_to_json))
 
-file_to = open(json_path, "w+")
-# file_to.write(json.dumps(doc_to_json))
-json.dump(doc_to_json, file_to)
+file_to = codecs.open(json_path, "w", encoding="utf-8")
+file_to.write(json.dumps(doc_to_json, ensure_ascii=False, indent=4, sort_keys=False))
+# json.dump(doc_to_json, file_to)
 
